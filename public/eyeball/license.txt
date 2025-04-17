@@ -1,0 +1,11 @@
+Model Information:
+* title:	Eyeball
+* source:	https://sketchfab.com/3d-models/eyeball-52c5538bdb8d4db08b871fb92cb179bd
+* author:	3DHaupt (https://sketchfab.com/dennish2010)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Eyeball" (https://sketchfab.com/3d-models/eyeball-52c5538bdb8d4db08b871fb92cb179bd) by 3DHaupt (https://sketchfab.com/dennish2010) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
